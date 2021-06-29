@@ -9,7 +9,7 @@ p{
 }
 
 body{
-    background-image: linear-gradient(to right, #DB5B4D ,#F2AB9B );
+    background-image: linear-gradient(to right, #F2AB9B ,#F8EAD8 );
 }
 
 main{
@@ -20,9 +20,9 @@ main{
 }
 
 h1{
-    color: ;
+    color: #7A8F78;
 }
 
 h2{
-    color: ;
+    color:#DB5B4D ;
 }
