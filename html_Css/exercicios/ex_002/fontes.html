@@ -16,9 +16,20 @@
              (em, ex, rem, vh, vw, %) 
              */
              font-size: 1em;
+             font-weight: bolder;
+             font-style: italic;
         }
         h1{
-            font-family: 'Times New Roman', Times, serif;
+            /*
+            shorthand font
+            font-style -> font-weight -> font-size -> font-family     essa ordem é importante
+
+            font-family: 'word-sans', sans-serif;
+            font-weight: bolder;
+            font-size: 1em;
+            font-style: italic;
+            */
+            font: italic bolder 1em 'word-sans', sans-serif;
         }
     </style>
 </head>
