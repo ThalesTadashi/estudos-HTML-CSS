@@ -18,6 +18,9 @@ h1{
 .avançado{
     color: tomato;
 }
+.destaque{
+    background-color: blue;
+}
 h2{
     color: rgb(73, 109, 71);
 }
