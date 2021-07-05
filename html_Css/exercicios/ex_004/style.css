@@ -6,7 +6,7 @@ body{
 h1{
     color: rgb(4, 109, 0);
 }
-h1#principal{
+#principal{
     text-align: center;
 }
 h2{
