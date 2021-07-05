@@ -9,6 +9,15 @@ h1{
 #principal{
     text-align: center;
 }
+.basico{
+    color: violet;
+}
+.intermediario{
+    color: yellow;
+}
+.avançado{
+    color: tomato;
+}
 h2{
     color: rgb(73, 109, 71);
 }
