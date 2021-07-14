@@ -3,4 +3,30 @@
     height: 150px;
     border-radius: 50%;
     border: 10px solid blue;
+    animation: circle 2.5s ease-in-out infinite;
+}
+
+
+@keyframes circle{
+    0%{
+        border-color: blue;
+        transform: scale(1);
+    }
+
+    25%{
+        border-color: green;
+        transform: scale(0.8);
+    }
+    50%{
+        border-color: purple;
+        transform: scale(1.5);
+    }
+    75%{
+        border-color: yellow;
+        transform: scale(0.7);
+    }
+    100%{
+        border-color: blue;
+        transform: scale(1);
+    }
 }
