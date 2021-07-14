@@ -3,7 +3,7 @@
     height: 150px;
     border-radius: 50%;
     border: 5px double blue;
-    animation: circle 2.5s ease-in-out infinite;
+    animation: circle 3s ease-in-out infinite;
 
 }
 
