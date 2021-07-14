@@ -2,10 +2,10 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 10px solid blue;
+    border: 5px solid blue;
     animation: circle 2.5s ease-in-out infinite;
-}
 
+}
 
 @keyframes circle{
     0%{
