@@ -62,3 +62,16 @@ body{
     filter: blur(1px);
     animation: shadow .5s alternate infinite ease;
   }
+  @keyframes shadow{
+    0%{
+      transform: scaleX(1.5);
+    }
+    40%{
+      transform: scaleX(1);
+      opacity: .7;
+    }
+    100%{
+      transform: scaleX(.2);
+      opacity: .4;
+    }
+  }
