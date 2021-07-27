@@ -84,3 +84,12 @@ body{
     right:15%;
     animation-delay: .3s;
   }
+  .wrapper span{
+    position: absolute;
+    top:75px;
+    font-family: 'Lato';
+    font-size: 20px;
+    letter-spacing: 12px;
+    color: #fff;
+  }
+  
