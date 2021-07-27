@@ -6,4 +6,11 @@ body{
     background:radial-gradient(#21D4FD, #B721FF);
   
   }
-  
+  .wrapper{
+    width:200px;
+    height:60px;
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+  }
