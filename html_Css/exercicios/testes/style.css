@@ -117,5 +117,7 @@ body{
     top: 2px;
     transition: 200ms;
   }
-
+  .toggle:checked +label{
+    background: blue;
+  }
   
