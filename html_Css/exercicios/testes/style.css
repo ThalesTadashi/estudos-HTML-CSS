@@ -104,4 +104,18 @@ body{
     transition: 200ms;
     cursor: pointer;
   }
+  .toggle +  label:before{
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: white;
+    display: block;
+    border-radius: 50%;
+    right: unset;
+    left: 2px;
+    top: 2px;
+    transition: 200ms;
+  }
+
   
