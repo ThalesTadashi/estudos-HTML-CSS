@@ -92,7 +92,10 @@ body{
     letter-spacing: 12px;
     color: #fff;
   }
-  .toggle +  label{
+  .toggle{
+    display: none;
+  }
+  .toggle + label{
 
     width: 32px;
     height: 22px;
@@ -104,7 +107,7 @@ body{
     transition: 200ms;
     cursor: pointer;
   }
-  .toggle +  label:before{
+  .toggle + label:before {
     content: '';
     position: absolute;
     width: 20px;
@@ -117,7 +120,12 @@ body{
     top: 2px;
     transition: 200ms;
   }
-  .toggle:checked +label{
+  .toggle:checked + label {
     background: blue;
+  }
+  .toggle:checked + label:before {
+    content: '';
+    left: calc(100% - 22px);
+    box-shadow: 0 4px 4px rgb( 0 0 0 / 10%);
   }
   
