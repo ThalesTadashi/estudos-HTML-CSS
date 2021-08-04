@@ -8,12 +8,20 @@
 #1a5c37
 #063d1e
 */
+:root{
+    --cor1:#c5ebd6;
+    --cor2:#83e1ad;
+    --cor3:#3ddc84;
+    --cor4:#2fa866;
+    --cor5:#1a5c37;
+    --cor6:#063d1e;
+}
 body{
-    background-color: #a8e6c4;
+    background-color:var(--cor1) ;
 }
 header > h1{
-    color: ;
+    color:var(--cor3) ;
 }
 main h1{
-    color: ;
+    color:var(--cor4);
 }
