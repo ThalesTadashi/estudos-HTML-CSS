@@ -2,8 +2,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
-@font-face{
-    
+@font-face {
+
     font-family: 'Android';
     scr: url('/html_Css/exercicios/desafios/pacote-projeto-d010/fontes/idroid.otf') format('opentype');
     font-weight: normal;
@@ -24,6 +24,8 @@
     --cor4:#2fa866;
     --cor5:#1a5c37;
     --cor6:#063d1e;
+
+    
 }
 body{
     background-color:var(--cor1) ;
