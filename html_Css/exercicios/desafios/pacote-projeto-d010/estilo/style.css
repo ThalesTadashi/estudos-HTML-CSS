@@ -31,6 +31,7 @@
 }
 body{
     background-color:var(--cor1) ;
+   
 }
 header > h1{
     color:var(--cor3) ;
