@@ -7,7 +7,6 @@
     src: url('/html_Css/exercicios/desafios/pacote-projeto-d010/fontes/idroid.otf') format('opentype');
     font-weight: normal;
 }
-
 /*
 #c5ebd6
 #83e1ad
@@ -27,7 +26,6 @@
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
     --fonte-android: 'Android', cursive;
-
 }
 *{
     margin: 0px;
