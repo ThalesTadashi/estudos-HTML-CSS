@@ -2,6 +2,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
+@font-face{
+    
+    font-family: 'Android';
+    scr: url('/html_Css/exercicios/desafios/pacote-projeto-d010/fontes/idroid.otf') format('opentype');
+    font-weight: normal;
+}
+
 /*
 #c5ebd6
 #83e1ad
