@@ -48,6 +48,7 @@ header > p {
 nav{
     min-width: 300px;
     max-width: 1000px;
+    margin: auto;
     background-color: var(--cor5);
 }
 main {
@@ -61,7 +62,7 @@ main h2{
     font-family: var(--fonte-android);
 }
 main img{
-    
+    width: 100%;
 }
 footer{
     background-color: var(--cor5);
