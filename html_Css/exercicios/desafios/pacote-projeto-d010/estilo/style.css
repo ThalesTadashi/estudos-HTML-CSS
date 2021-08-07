@@ -64,6 +64,11 @@ main h2{
 main img{
     width: 100%;
 }
+main img.pequena{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
 footer{
     background-color: var(--cor5);
     color: white;
