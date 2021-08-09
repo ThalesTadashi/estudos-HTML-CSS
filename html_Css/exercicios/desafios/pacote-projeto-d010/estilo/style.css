@@ -44,10 +44,17 @@ header{
 header > h1{
     color:white ;
     font-family: var(--fonte-destaque);
+    font-size: 3em;
     margin-bottom: 20px;
 }
 header > p {
+    font-family:var(--fonte-destaque);
+    font-size:  1.2em;
     color: white;
+    max-width: 600px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: auto;
 }
 nav{
     background-color: var(--cor5);
