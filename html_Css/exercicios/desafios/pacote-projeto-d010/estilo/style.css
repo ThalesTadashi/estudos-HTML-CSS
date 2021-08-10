@@ -60,6 +60,8 @@ header > p {
 }
 nav{
     background-color: var(--cor5);
+    padding: 10px;
+    
 }
 main {
     min-width: 300px;
