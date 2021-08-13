@@ -143,7 +143,9 @@ div.video{
     margin: 0px -20px 30px -20px;
     padding: 20px;
 }
-
+div.video > iframe{
+    
+}
 aside{
     background-color: var(--cor1);
     padding: 10px;
